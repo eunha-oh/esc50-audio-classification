@@ -15,8 +15,8 @@ Raw Audio → Mel Spectrogram 변환 → 정규화 → CNN 학습 → 분류
 ## Results
 | 설정 | Test Accuracy |
 |------|--------------|
-| Baseline | XX% |
-| + Data Augmentation | XX% |
+| Baseline | 49.25% |
+| + Data Augmentation | 61.12% |
 
 ## 사용 기술
 - Python, PyTorch, librosa, scikit-learn
